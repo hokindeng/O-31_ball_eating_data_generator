@@ -1,0 +1,1 @@
+Show the black ball systematically eating all red balls. The black ball must only attempt to eat red balls that are no larger than itself. Each time a red ball is eaten, it disappears and the black ball grows. Animate the black ball moving smoothly to each target, consuming it, and growing. The sequence continues until all red balls are gone.

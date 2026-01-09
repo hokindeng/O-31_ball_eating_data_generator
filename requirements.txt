@@ -1,0 +1,12 @@
+# Ball Eating Task Generator - Dependencies
+# 
+# This generator creates synthetic reasoning tasks where a black ball
+# must eat all red balls in a valid sequence, with size constraints.
+
+# Core dependencies
+numpy==1.26.4          # Numerical operations for ball positioning and size calculations
+Pillow==10.4.0         # Image rendering and manipulation
+pydantic==2.10.5      # Configuration management and data validation
+
+# Video generation
+opencv-python==4.10.0.84  # Video encoding for ground truth animations
