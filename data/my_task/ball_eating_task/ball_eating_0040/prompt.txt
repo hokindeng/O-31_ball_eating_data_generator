@@ -1,1 +1,0 @@
-Demonstrate the black ball eating all red balls in a valid sequence. The black ball can only eat red balls that are smaller than or equal to its current size. Animate the black ball moving to each target, the red ball vanishing when eaten, and the black ball increasing in size. Continue until all red balls are consumed.
